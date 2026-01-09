@@ -8,7 +8,7 @@ Header + roxygen helpers for RStudio addins.
 
 ## Installation
 ```r
-remotes::install_github("yourname/addHeaderR")
+remotes::install_github("youngbee12/addHeaderR")
 ```
 
 ## Usage
